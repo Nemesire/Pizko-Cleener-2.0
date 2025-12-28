@@ -1,0 +1,7 @@
+{
+  "name": "pizkocleener tester",
+  "description": "Professional management app for Airbnb cleanings, inventory, and property synchronization for hosts and cleaning staff.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
